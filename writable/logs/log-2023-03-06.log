@@ -1,0 +1,203 @@
+CRITICAL - 2023-03-06 06:42:32 --> Invalid file: "v_peta.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_peta.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('v_peta', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('v_peta')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 06:44:45 --> Invalid file: "v_peta.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_peta.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('v_peta', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('v_peta')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 06:44:45 --> Invalid file: "v_peta.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_peta.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('v_peta', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('v_peta')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 06:44:59 --> Invalid file: "v_peta.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_peta.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('v_peta', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('v_peta')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 06:45:00 --> Invalid file: "v_peta.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_peta.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('v_peta', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('v_peta')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 06:47:29 --> Invalid file: "v_peta.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_peta.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('v_peta', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('v_peta')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 06:47:32 --> Invalid file: "v_peta.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_peta.php')
+ 2 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('v_peta', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('v_peta')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 06:52:52 --> Undefined array key "foto"
+in APPPATH\Controllers\Home.php on line 23.
+ 1 APPPATH\Controllers\Home.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "foto"', 'APPPATH\\Controllers\\Home.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->simpan_tambah_data()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-06 06:53:02 --> Undefined array key "foto"
+in APPPATH\Controllers\Home.php on line 23.
+ 1 APPPATH\Controllers\Home.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "foto"', 'APPPATH\\Controllers\\Home.php', 23)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->simpan_tambah_data()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-06 08:23:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 08:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 08:23:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-06 08:23:39 --> Undefined array key "content"
+in APPPATH\Views\v_input.php on line 45.
+ 1 APPPATH\Views\v_input.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "content"', 'APPPATH\\Views\\v_input.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_input.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('v_input', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('v_input')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->input()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-06 08:24:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-03-06 08:24:05 --> ErrorException: pg_query(): Query failed: ERROR:  invalid input syntax for type numeric: &quot;&quot;
+LINE 1: ...&quot;, &quot;created_at&quot;, &quot;updated_at&quot;) VALUES ('ss', 's', '', '', '2...
+                                                             ^ in C:\xampp\htdocs\petalokasiobjek\system\Database\Postgre\Connection.php:147
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 147)
+#1 C:\xampp\htdocs\petalokasiobjek\system\Database\Postgre\Connection.php(147): pg_query(Object(PgSql\Connection), 'INSERT INTO "da...')
+#2 C:\xampp\htdocs\petalokasiobjek\system\Database\BaseConnection.php(691): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "da...')
+#3 C:\xampp\htdocs\petalokasiobjek\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "da...')
+#4 C:\xampp\htdocs\petalokasiobjek\system\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO "da...', Array, false)
+#5 C:\xampp\htdocs\petalokasiobjek\system\Model.php(329): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\petalokasiobjek\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\petalokasiobjek\system\Model.php(729): CodeIgniter\BaseModel->insert(Array, false)
+#8 C:\xampp\htdocs\petalokasiobjek\system\BaseModel.php(692): CodeIgniter\Model->insert(Array, false)
+#9 C:\xampp\htdocs\petalokasiobjek\app\Controllers\Home.php(34): CodeIgniter\BaseModel->save(Array)
+#10 C:\xampp\htdocs\petalokasiobjek\system\CodeIgniter.php(934): App\Controllers\Home->simpan_tambah_data()
+#11 C:\xampp\htdocs\petalokasiobjek\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\xampp\htdocs\petalokasiobjek\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\petalokasiobjek\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2023-03-06 08:24:05 --> pg_query(): Query failed: ERROR:  invalid input syntax for type numeric: &quot;&quot;
+LINE 1: ...&quot;, &quot;created_at&quot;, &quot;updated_at&quot;) VALUES ('ss', 's', '', '', '2...
+                                                             ^
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO "dataLokasiObjek" ("nama", "deskripsi", "latitude", "longitude", "created_at", "updated_at") VALUES (:nama:, :deskripsi:, :latitude:, :longitude:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(329): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(729): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(692): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Home.php(34): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->simpan_tambah_data()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-06 08:24:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 08:25:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 08:25:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-06 08:25:11 --> Undefined array key "content"
+in APPPATH\Views\v_input.php on line 45.
+ 1 APPPATH\Views\v_input.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "content"', 'APPPATH\\Views\\v_input.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_input.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('v_input', [], true)
+ 5 APPPATH\Controllers\Home.php(23): view('v_input')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->input()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-06 08:25:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 08:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 08:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-03-06 08:26:02 --> Undefined array key "content"
+in APPPATH\Views\v_input.php on line 45.
+ 1 APPPATH\Views\v_input.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "content"', 'APPPATH\\Views\\v_input.php', 45)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_input.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('v_input', [], true)
+ 5 APPPATH\Controllers\Home.php(24): view('v_input')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->input()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-06 08:26:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 08:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 08:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 08:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 08:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 08:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-03-06 08:32:11 --> ErrorException: pg_query(): Query failed: ERROR:  invalid input syntax for type numeric: &quot;&quot;
+LINE 1: ...de&quot;, &quot;created_at&quot;, &quot;updated_at&quot;) VALUES ('', 'u', '', '', '2...
+                                                             ^ in C:\xampp\htdocs\petalokasiobjek\system\Database\Postgre\Connection.php:147
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 147)
+#1 C:\xampp\htdocs\petalokasiobjek\system\Database\Postgre\Connection.php(147): pg_query(Object(PgSql\Connection), 'INSERT INTO "da...')
+#2 C:\xampp\htdocs\petalokasiobjek\system\Database\BaseConnection.php(691): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "da...')
+#3 C:\xampp\htdocs\petalokasiobjek\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "da...')
+#4 C:\xampp\htdocs\petalokasiobjek\system\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO "da...', Array, false)
+#5 C:\xampp\htdocs\petalokasiobjek\system\Model.php(329): CodeIgniter\Database\BaseBuilder->insert()
+#6 C:\xampp\htdocs\petalokasiobjek\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#7 C:\xampp\htdocs\petalokasiobjek\system\Model.php(729): CodeIgniter\BaseModel->insert(Array, false)
+#8 C:\xampp\htdocs\petalokasiobjek\system\BaseModel.php(692): CodeIgniter\Model->insert(Array, false)
+#9 C:\xampp\htdocs\petalokasiobjek\app\Controllers\Home.php(35): CodeIgniter\BaseModel->save(Array)
+#10 C:\xampp\htdocs\petalokasiobjek\system\CodeIgniter.php(934): App\Controllers\Home->simpan_tambah_data()
+#11 C:\xampp\htdocs\petalokasiobjek\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#12 C:\xampp\htdocs\petalokasiobjek\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 C:\xampp\htdocs\petalokasiobjek\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2023-03-06 08:32:11 --> pg_query(): Query failed: ERROR:  invalid input syntax for type numeric: &quot;&quot;
+LINE 1: ...de&quot;, &quot;created_at&quot;, &quot;updated_at&quot;) VALUES ('', 'u', '', '', '2...
+                                                             ^
+in SYSTEMPATH\Database\BaseConnection.php on line 645.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2295): CodeIgniter\Database\BaseConnection->query('INSERT INTO "dataLokasiObjek" ("nama", "deskripsi", "latitude", "longitude", "created_at", "updated_at") VALUES (:nama:, :deskripsi:, :latitude:, :longitude:, :created_at:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(329): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(729): CodeIgniter\BaseModel->insert([...], false)
+ 5 SYSTEMPATH\BaseModel.php(692): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Home.php(35): CodeIgniter\BaseModel->save([...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->simpan_tambah_data()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-03-06 08:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 08:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 08:38:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 09:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 09:02:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 09:03:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 09:04:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 09:05:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 09:06:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 09:08:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-03-06 09:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
